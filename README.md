@@ -79,9 +79,11 @@ src/lab_m1/tema1/
 Requires CMake and a C++17 compiler. The `Tema1` scene is registered in [`src/lab_m1/lab_list.h`](src/lab_m1/lab_list.h).
 
 ```bash
-cmake -S . -B build
-cmake --build build
-./build/bin/Debug/GFXFramework
+mkdir build
+cd build
+cmake ..
+cmake --build .
+./bin/Debug/GFXFramework
 ```
 
 ---
