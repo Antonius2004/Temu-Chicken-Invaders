@@ -1,0 +1,944 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "bin/Debug/GFXFramework"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"custom_add_executable",
+			"target_link_libraries",
+			"target_compile_options",
+			"target_compile_definitions",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"infra/utils.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 109,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 149,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 162,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 196,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 258,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 231,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 116,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 203,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++11 -fPIE"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-pedantic"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-Wno-error"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-Wno-unused-parameter"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-Wno-unused-variable"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-Wno-unused-but-set-variable"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-Wno-missing-field-initializers"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-Wno-sign-compare"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "DEBUG"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "GLM_FORCE_COMPILER_UNKNOWN=1"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "GLM_FORCE_SILENT_WARNINGS"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "LIBGFXC_EXPORTS"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "SOLVED"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "WITH_LAB_M1"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "_CRT_SECURE_NO_WARNINGS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "/home/antoniu/Dev/Projects/gfx-framework/deps/api"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/antoniu/Dev/Projects/gfx-framework/src"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33
+			]
+		}
+	],
+	"id" : "GFXFramework::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,\"\\$$ORIGIN\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/usr/lib/libOpenGL.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/usr/lib/libGLX.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/usr/lib/libGLU.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-lGLEW",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-lglfw",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-lassimp",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-lspdlog",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-lfreetype",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "/home/antoniu/Dev/Projects/gfx-framework/deps/prebuilt/GFXComponents/x86_64/GFXComponents.so",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"linkLibraries" : 
+	[
+		{
+			"backtrace" : 3,
+			"fragment" : "/usr/lib/libOpenGL.so"
+		},
+		{
+			"backtrace" : 3,
+			"fragment" : "/usr/lib/libGLX.so"
+		},
+		{
+			"backtrace" : 3,
+			"fragment" : "/usr/lib/libGLU.so"
+		},
+		{
+			"backtrace" : 4,
+			"fragment" : "GLEW"
+		},
+		{
+			"backtrace" : 4,
+			"fragment" : "glfw"
+		},
+		{
+			"backtrace" : 4,
+			"fragment" : "assimp"
+		},
+		{
+			"backtrace" : 4,
+			"fragment" : "spdlog"
+		},
+		{
+			"backtrace" : 4,
+			"fragment" : "freetype"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/home/antoniu/Dev/Projects/gfx-framework/deps/prebuilt/GFXComponents/x86_64/GFXComponents.so"
+		}
+	],
+	"name" : "GFXFramework",
+	"nameOnDisk" : "GFXFramework",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "src\\components",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40
+			]
+		},
+		{
+			"name" : "src\\core",
+			"sourceIndexes" : 
+			[
+				4,
+				14,
+				41,
+				56
+			]
+		},
+		{
+			"name" : "src\\core\\gpu",
+			"sourceIndexes" : 
+			[
+				5,
+				6,
+				7,
+				8,
+				9,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50
+			]
+		},
+		{
+			"name" : "src\\core\\managers",
+			"sourceIndexes" : 
+			[
+				10,
+				51,
+				52
+			]
+		},
+		{
+			"name" : "src\\core\\window",
+			"sourceIndexes" : 
+			[
+				11,
+				12,
+				13,
+				53,
+				54,
+				55
+			]
+		},
+		{
+			"name" : "src\\lab_m1\\tema1",
+			"sourceIndexes" : 
+			[
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67
+			]
+		},
+		{
+			"name" : "src\\lab_m1\\tema2",
+			"sourceIndexes" : 
+			[
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79
+			]
+		},
+		{
+			"name" : "src",
+			"sourceIndexes" : 
+			[
+				31
+			]
+		},
+		{
+			"name" : "src\\utils",
+			"sourceIndexes" : 
+			[
+				32,
+				33,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/components/camera_input.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/components/scene_input.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/components/simple_scene.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/components/text_renderer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/core/engine.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/core/gpu/frame_buffer.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/core/gpu/gpu_buffers.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/core/gpu/mesh.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/core/gpu/shader.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/core/gpu/texture2D.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/core/managers/texture_manager.cpp",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/core/window/input_controller.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/core/window/window_callbacks.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/core/window/window_object.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/core/world.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema1/Chicken.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema1/EditBlockData.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema1/InteractableMesh.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema1/PlayerShip.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema1/Projectile.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema1/Tema1.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema1/objects2D.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema2/Block.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema2/Draisine.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema2/MyMethods.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema2/Objects.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema2/Rail.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema2/Station.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema2/Tema2.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema2/Train.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/lab_m1/tema2/Wagon.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.cpp",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/utils/gl_utils.cpp",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/utils/text_utils.cpp",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/components/camera.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/components/camera_input.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/components/exports.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/components/scene_input.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/components/simple_scene.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/components/text_renderer.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/components/transform.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/engine.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/gpu/frame_buffer.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/gpu/gpu_buffers.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/gpu/mesh.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/gpu/particle_effect.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/gpu/shader.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/gpu/ssbo.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/gpu/texture2D.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/gpu/vertex_bone_data.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/gpu/vertex_format.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/managers/resource_path.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/managers/texture_manager.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/window/input_controller.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/window/window_callbacks.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/window/window_object.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/core/world.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema1/CannonProjectile.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema1/Chicken.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema1/ChickenProjectile.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema1/EditBlockData.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema1/InteractableMesh.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema1/PlayerShip.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema1/Projectile.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema1/Tema1.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema1/Transformations.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema1/constants.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema1/objects2D.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema2/Block.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema2/Constants.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema2/Draisine.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema2/Enums.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema2/Objects.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema2/Rail.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema2/Station.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema2/StraightRail.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema2/Tema2.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema2/Train.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema2/TurnRail.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/lab_m1/tema2/Wagon.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/utils/gl_utils.h",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/utils/glm_utils.h",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/utils/math_utils.h",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/utils/memory_utils.h",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/utils/text_utils.h",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/utils/window_utils.h",
+			"sourceGroupIndex" : 8
+		}
+	],
+	"type" : "EXECUTABLE"
+}

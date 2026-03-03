@@ -1,0 +1,3 @@
+/home/antoniu/Dev/Projects/gfx-framework/build/CMakeFiles/GFXFramework.dir
+/home/antoniu/Dev/Projects/gfx-framework/build/CMakeFiles/edit_cache.dir
+/home/antoniu/Dev/Projects/gfx-framework/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,206 @@
+[
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/components/camera_input.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/components/camera_input.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/components/camera_input.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/components/camera_input.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/components/scene_input.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/components/scene_input.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/components/scene_input.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/components/scene_input.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/components/simple_scene.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/components/simple_scene.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/components/simple_scene.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/components/simple_scene.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/components/text_renderer.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/components/text_renderer.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/components/text_renderer.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/components/text_renderer.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/core/engine.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/core/engine.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/core/engine.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/core/engine.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/core/gpu/frame_buffer.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/core/gpu/frame_buffer.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/core/gpu/frame_buffer.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/core/gpu/frame_buffer.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/core/gpu/gpu_buffers.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/core/gpu/gpu_buffers.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/core/gpu/gpu_buffers.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/core/gpu/gpu_buffers.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/core/gpu/mesh.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/core/gpu/mesh.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/core/gpu/mesh.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/core/gpu/mesh.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/core/gpu/shader.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/core/gpu/shader.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/core/gpu/shader.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/core/gpu/shader.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/core/gpu/texture2D.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/core/gpu/texture2D.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/core/gpu/texture2D.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/core/gpu/texture2D.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/core/managers/texture_manager.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/core/managers/texture_manager.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/core/managers/texture_manager.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/core/managers/texture_manager.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/core/window/input_controller.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/core/window/input_controller.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/core/window/input_controller.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/core/window/input_controller.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/core/window/window_callbacks.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/core/window/window_callbacks.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/core/window/window_callbacks.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/core/window/window_callbacks.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/core/window/window_object.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/core/window/window_object.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/core/window/window_object.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/core/window/window_object.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/core/world.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/core/world.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/core/world.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/core/world.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema1/Chicken.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema1/Chicken.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema1/Chicken.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema1/Chicken.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema1/EditBlockData.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema1/EditBlockData.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema1/EditBlockData.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema1/EditBlockData.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema1/InteractableMesh.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema1/InteractableMesh.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema1/InteractableMesh.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema1/InteractableMesh.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema1/PlayerShip.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema1/PlayerShip.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema1/PlayerShip.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema1/PlayerShip.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema1/Projectile.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema1/Projectile.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema1/Projectile.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema1/Projectile.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema1/Tema1.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema1/Tema1.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema1/Tema1.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema1/Tema1.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema1/objects2D.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema1/objects2D.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema1/objects2D.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema1/objects2D.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Block.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Block.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Block.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Block.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Draisine.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Draisine.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Draisine.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Draisine.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/MyMethods.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/MyMethods.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/MyMethods.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/MyMethods.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Objects.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Objects.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Objects.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Objects.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Rail.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Rail.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Rail.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Rail.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Station.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Station.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Station.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Station.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Tema2.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Tema2.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Tema2.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Tema2.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Train.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Train.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Train.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Train.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Wagon.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Wagon.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/lab_m1/tema2/Wagon.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/lab_m1/tema2/Wagon.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/main.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/main.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/main.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/utils/gl_utils.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/utils/gl_utils.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/utils/gl_utils.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/utils/gl_utils.cpp.o"
+},
+{
+  "directory": "/home/antoniu/Dev/Projects/gfx-framework/build",
+  "command": "/usr/bin/g++ -DDEBUG -DGLM_FORCE_COMPILER_UNKNOWN=1 -DGLM_FORCE_SILENT_WARNINGS -DLIBGFXC_EXPORTS -DSOLVED -DWITH_LAB_M1 -D_CRT_SECURE_NO_WARNINGS -I/home/antoniu/Dev/Projects/gfx-framework/deps/api -I/home/antoniu/Dev/Projects/gfx-framework/src -g -std=gnu++11 -fPIE -Wall -Wextra -pedantic -Wno-error -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wno-missing-field-initializers -Wno-sign-compare -o CMakeFiles/GFXFramework.dir/src/utils/text_utils.cpp.o -c /home/antoniu/Dev/Projects/gfx-framework/src/utils/text_utils.cpp",
+  "file": "/home/antoniu/Dev/Projects/gfx-framework/src/utils/text_utils.cpp",
+  "output": "CMakeFiles/GFXFramework.dir/src/utils/text_utils.cpp.o"
+}
+]

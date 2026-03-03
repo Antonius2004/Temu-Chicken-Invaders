@@ -1,0 +1,57 @@
+//
+// Created by patur on 11/6/2025.
+//
+
+#ifndef GFXFRAMEWORK_CONSTANTS_H
+#define GFXFRAMEWORK_CONSTANTS_H
+
+// 16:9 aspect ratio
+#define LOGIC_SPACE_W 1920
+#define LOGIC_SPACE_H 1080
+
+#define GAME_SPACE_H (LOGIC_SPACE_H * 2.f)
+#define GAME_SPACE_W (LOGIC_SPACE_W * 2.f)
+
+#define BORDER_PAD 5
+
+#define CHOOSE_WINDOW_W ((LOGIC_SPACE_W - 2 * BORDER_PAD) / 5.f)
+#define CHOOSE_WINDOW_H ((LOGIC_SPACE_H - 2 * BORDER_PAD) / 3.f)
+
+#define EDIT_MATRIX_W 17
+#define EDIT_MATRIX_H 9
+#define EDIT_WINDOW_PAD 150
+#define EDIT_WINDOW_W ((LOGIC_SPACE_W - 2 * BORDER_PAD) - (LOGIC_SPACE_W - 2 * BORDER_PAD) / 5 - 2 * EDIT_WINDOW_PAD)
+#define EDIT_WINDOW_H 500
+#define EDIT_BLOCK_LEN 80.f
+#define EDIT_WINDOW_START_X (BORDER_PAD + CHOOSE_WINDOW_W)
+#define EDIT_WINDOW_START_Y BORDER_PAD
+#define EDIT_BLOCK_MAT_OFFS Transformations::Translate(470, 100)
+#define EDIT_BLOCK_OFFS_X 470
+#define EDIT_BLOCK_OFFS_Y 100
+
+#define TILES_PLACED_IND_OFF 50
+
+#define FIRE_OFF 2.f
+#define FIRE_LEN (EDIT_BLOCK_LEN - 2 * FIRE_OFF)
+
+#define SHIP_MOVE_FACTOR 400.f
+#define SHIP_SCALE_FACTOR 0.5f
+#define HITBOX_SCALE 0.8f
+
+#define CHICKEN_SCALE 0.5f
+#define CHICKEN_H_OFFS 400
+#define CHICKEN_V_OFFS 300
+
+#define CANNON_PROJ_RAD 30
+#define CHICKEN_PROJ_RAD 30
+
+#define DOWN_DIRECTION 0
+#define UP_DIRECTION 1
+
+#define  LIFE_W 30
+#define LIFE_H 60
+#define LIFE_OFFSET (2 * LIFE_W)
+
+#define MULTIPLIER 10.f
+
+#endif //GFXFRAMEWORK_CONSTANTS_H

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/antoniu/Dev/Projects/gfx-framework/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
